@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000233
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཚིག་བདུན་བླ་མའི་རྣལ་འབྱོར་བྱིན་རླབས་ཆར་འབེབས་ཀྱི་དམིགས་ཁྲིད་ཉུང་བསྡུས་ཟབ་ལམ་བཅུད་དྲིལ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-14
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-DKR-14
 web_metadata:
   title:
     en: The Combined Essences of the Profound Path:A Short Meditation Instruction
